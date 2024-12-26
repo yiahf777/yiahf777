@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 
 
 I am a passionate **Senior Developer** specializing in **Web Development**, **Mobile Apps**, and **Blockchain Technologies**.  
 With over a decade of experience, I have helped build innovative products, successful ICO campaigns, and decentralized platforms.
